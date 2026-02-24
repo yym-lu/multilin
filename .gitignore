@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+
+# System
+.DS_Store
+
+# Virtual Env
+.venv/
+env/
+
+# Large Model Files
+models/AI-ModelScope/
+models/.lock/
+base_models/
+
+# Ignore large model weights
+*.safetensors
+*.bin
+*.h5
+*.onnx
+*.msgpack
+*.flax_model.msgpack
+
+# Keep LoRA adapters
+!models/**/adapter_model.safetensors

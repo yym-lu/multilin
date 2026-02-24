@@ -1,0 +1,50 @@
+[
+  {
+    "accuracy": 0.897,
+    "precision": 0.8948412698412699,
+    "recall": 0.9001996007984032,
+    "f1": 0.8975124378109453,
+    "total_samples": 1000,
+    "model_name": "colda_8k"
+  },
+  {
+    "accuracy": 0.886,
+    "precision": 0.9039665970772442,
+    "recall": 0.8642714570858283,
+    "f1": 0.8836734693877552,
+    "total_samples": 1000,
+    "model_name": "colda_4k"
+  },
+  {
+    "accuracy": 0.912,
+    "precision": 0.9072978303747534,
+    "recall": 0.9181636726546906,
+    "f1": 0.9126984126984127,
+    "total_samples": 1000,
+    "model_name": "colda_20k"
+  },
+  {
+    "accuracy": 0.736,
+    "precision": 0.7604395604395604,
+    "recall": 0.6906187624750499,
+    "f1": 0.7238493723849372,
+    "total_samples": 1000,
+    "model_name": "olid_13k"
+  },
+  {
+    "accuracy": 0.878,
+    "precision": 0.8451730418943534,
+    "recall": 0.9261477045908184,
+    "f1": 0.8838095238095238,
+    "total_samples": 1000,
+    "model_name": "colda_4k_olid_13k"
+  },
+  {
+    "accuracy": 0.918,
+    "precision": 0.9181636726546906,
+    "recall": 0.9181636726546906,
+    "f1": 0.9181636726546906,
+    "total_samples": 1000,
+    "model_name": "colda_20k_olid_13k"
+  }
+]
